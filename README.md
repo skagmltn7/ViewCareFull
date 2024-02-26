@@ -72,8 +72,13 @@
 
 ### 온라인 화상 면회
 
+<div style="display: flex; justify-content: space-around;">
+
 <img alt="img" height="739" src="https://github.com/skagmltn7/skagmltn7/assets/133394749/ec542b2f-dec6-41fa-84cc-c1eaceb645b9" width="350"/>
+
 <img alt="img" height="739" src="files/면회.gif" width="360"/>
+
+</div>
 
 - 화상 면회 예약 시스템
 - 면회 중 입소자의 표정 인식을 통해 베스트샷으로 찍어 갤러리에 자동 저장
@@ -82,8 +87,13 @@
 
 ### 일일리포트 조회
 
-![img](files/보호자 메인.gif)
+<div style="display: flex; justify-content: space-around;">
+
+![img](files/보호자메인.gif)
+
 ![img](files/보호자메인2.gif)
+
+</div>
 
 - 원하는 날짜의 하루 건강 정보 조회
 - 평균 혈당 및 혈압, 식단 조회
@@ -93,8 +103,13 @@
 
 ### 월간 리포트 조회
 
+<div style="display: flex; justify-content: space-around;">
+
 ![img](files/월간레포트.gif)
+
 ![img](files/월간레포트2.gif)
+
+</div>
 
 - 온라인 화상 면회 중 베스트샷 기능 기반의 추억 영상 자동 생성 후 제공
 - Open AI를 사용한 한달간 입소자의 건강 및 생활 정보 요약 리포트 제공
