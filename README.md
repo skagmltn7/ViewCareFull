@@ -89,9 +89,8 @@
 
 <div style="display: flex; justify-content: space-around;">
 
-![img](files/보호자메인.gif)
-
-![img](files/보호자메인2.gif)
+<img alt="img" height="739" src="files/보호자메인.gif" width="360"/>
+<img alt="img" height="739" src="files/보호자메인2.gif" width="360"/>
 
 </div>
 
@@ -105,9 +104,8 @@
 
 <div style="display: flex; justify-content: space-around;">
 
-![img](files/월간레포트.gif)
-
-![img](files/월간레포트2.gif)
+<img alt="img" height="739" src="files/월간레포트.gif" width="360"/>
+<img alt="img" height="739" src="files/월간레포트2.gif" width="360"/>
 
 </div>
 
